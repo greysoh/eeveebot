@@ -1,0 +1,14 @@
+{
+  "name": "pheonixllm",
+  "version": "0.1.0",
+  "description": "PheonixLLM lets you run LLMs inside Python, yet interface with them in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
